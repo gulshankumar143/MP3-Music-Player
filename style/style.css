@@ -1,0 +1,38 @@
+body { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    width: 400px;
+}
+#progress .times,
+.card-footer,
+.volume-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.volume-container i {
+    margin-right: 5px;
+}
+li.playing {
+    background-color: #0b5eb7;
+    color: #fff;
+}
+.fBottom {
+    background-color: #281345;
+    padding: 20px;
+    text-align: center;
+}
+.fBottom p {
+    color: white;
+}
+.designer {
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin: 0px 5px;
+}
