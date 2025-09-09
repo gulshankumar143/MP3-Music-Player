@@ -71,7 +71,7 @@ MP3-Music-Player/
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements, new features, or bug fixes.
 
----
+----
 
 **Note:** Please ensure MP3 files are DRM-free and you have the rights to use them. This project is for educational and personal use.
 
