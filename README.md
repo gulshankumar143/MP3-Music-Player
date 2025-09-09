@@ -74,3 +74,9 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 **Note:** Please ensure MP3 files are DRM-free and you have the rights to use them. This project is for educational and personal use.
+
+### ScreenShot_1
+ ![MP3 Music Player](https://raw.githubusercontent.com/gulshankumar143/MP3-Music-Player/main/SS/SS_Mp3_Player.png)
+ <br>
+### ScreenShot_2
+ ![MP3 Music Player](https://raw.githubusercontent.com/gulshankumar143/MP3-Music-Player/main/SS/SS_Mp3_Player1.png)
